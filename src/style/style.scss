@@ -73,3 +73,14 @@ p,
 li {
   color: #f28482;
 }
+@media (max-width: 600px) {
+  main {
+    width: 90%;
+  }
+  input {
+    width: 65%;
+  }
+  button {
+    width: 25%;
+  }
+}
